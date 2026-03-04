@@ -31,7 +31,7 @@ $$x_{1}, x_{2} \ge 0$$
 
 ---
 
-## [cite_start]3. Resolução do Problema [cite: 18]
+## 3. Resolução do Problema
 
 | Etapa | Descrição |
 | :--- | :--- |
@@ -39,7 +39,7 @@ $$x_{1}, x_{2} \ge 0$$
 | **2. Preparação de Dados** | Converter os coeficientes e soluções em tensores para processamento. |
 | **3. Treinamento da Rede** | Treinar o modelo utilizando o framework **PyTorch**. |
 
-### [cite_start]Configuração da Rede Neural[cite: 18]:
+### Configuração da Rede Neural:
 * **Arquitetura:** Rede $8 \rightarrow 32 \rightarrow 16 \rightarrow 2$
 * **Função de Ativação:** ReLU
 * **Otimizador:** Adam
