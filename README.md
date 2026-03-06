@@ -1,7 +1,7 @@
 # Rede Neural para Aproximação de Soluções em Problemas de Otimização Linear (Protótipo)
 
 ## 1. Problema
-Problemas de **Programação Linear (PL)** são onipresentes em setores como logística, produção, telecomunicações e finanças. Embora os métodos exatos (como o Simplex) sejam a referência de precisão, eles apresentam um custo de execução por instância.
+Problemas de **Programação Linear (PL)** são onipresentes em setores como logística, produção, telecomunicações e finanças. Embora os métodos exatos (como o Simplex) sejam a referência de precisão, eles apresentam um custo de execução.
 
 Este projeto propõe uma rede neural para aprender a aproximar a solução ótima de problemas de PL de pequeno porte.
 
